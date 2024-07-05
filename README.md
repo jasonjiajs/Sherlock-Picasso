@@ -1,6 +1,6 @@
 # Sherlock Picasso
 
-Marketing tool for SMBs. Developed as part of Google PM Hackathon.
+A marketing tool for SMBs that is effective, cheap, and easy to use. Developed as part of Google PM Hackathon.
 
 Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Maxime Wolf](https://www.linkedin.com/in/maxime-wolf/), [Minnie Arunaramwong](https://www.linkedin.com/in/minnie-arunaramwong/), [Nuobei Zhang](https://www.linkedin.com/in/nuobeizhang/), [Raghav Jayahnthi](https://www.linkedin.com/in/rrmj/)
 
