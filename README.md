@@ -23,7 +23,7 @@ OPENAI_API_KEY = "your_api_key"
 
 ## Project Description
 
-<img src="summary_slide.png" alt="banner" height="500">
+<img src="summary_slide.jpeg" alt="banner" height="500">
 
 ## Product Demo
 
